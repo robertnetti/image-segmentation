@@ -24,7 +24,7 @@ Project is created with:
 To run this project, make sure git is installed, move to your desired directory, and run the following commands.
 
 ```
-$ git https://github.com/robertnetti/image-segmentation.git
+$ git clone https://github.com/robertnetti/image-segmentation.git
 $ cd image-segmentation
 $ cd ImgSeg
 $ python3 ImgSeg.py
